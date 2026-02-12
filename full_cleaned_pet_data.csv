@@ -1,0 +1,61 @@
+Date,Bonding_Minutes,Pet_Mood,Activity_Type,Energy_Level,Stress_Calmness,Indoor/Outdoor,Main_Bonding_Time,Pregnancy_Phase,Bonding_Bucket,Week
+2025-12-10,40,4,Walk,5,4,Outdoor,Morning,Pre-Conception,15–45 min,50
+2025-12-11,20,3,Quiet Cuddling,3,4,Indoor,Afternoon,Pre-Conception,15–45 min,50
+2025-12-12,50,5,Play + Training,5,5,Indoor,Evening,Pre-Conception,>45 min,50
+2025-12-13,5,2,Quiet Cuddling,2,2,Indoor,Afternoon,Pre-Conception,<15 min,50
+2025-12-14,30,4,Walk,4,3,Outdoor,Evening,Pre-Conception,15–45 min,50
+2025-12-15,25,4,Quiet Cuddling,4,3,Indoor,Evening,Pre-Conception,15–45 min,51
+2025-12-16,35,4,Walk + Play,5,4,Outdoor,Afternoon,Pre-Conception,15–45 min,51
+2025-12-17,20,3,Quiet Cuddling,3,3,Indoor,Evening,Pre-Conception,15–45 min,51
+2025-12-18,45,5,Run + Walk,5,5,Outdoor,Evening,Pre-Conception,15–45 min,51
+2025-12-19,25,3,Walk,4,3,Outdoor,Morning,Pre-Conception,15–45 min,51
+2025-12-20,15,2,Play,3,2,Indoor,Evening,Pre-Conception,<15 min,51
+2025-12-21,40,4,Walk + Play,5,4,Outdoor,Evening,Pre-Conception,15–45 min,51
+2025-12-22,30,4,Walk,4,4,Outdoor,Morning,Pre-Conception,15–45 min,52
+2025-12-23,18,3,Quiet Cuddling,3,3,Indoor,Evening,Pre-Conception,15–45 min,52
+2025-12-24,55,5,Run + Walk,5,5,Outdoor,Afternoon,Pre-Conception,>45 min,52
+2025-12-25,10,4,Walk + Training,4,4,Outdoor,Morning,Pre-Conception,<15 min,52
+2025-12-26,12,2,Play,3,2,Indoor,Evening,Pre-Conception,<15 min,52
+2025-12-27,35,4,Walk,4,4,Outdoor,Evening,Pre-Conception,15–45 min,52
+2025-12-28,45,5,Walk,5,5,Outdoor,Morning,Early Pregnancy,15–45 min,52
+2025-12-29,30,4,Walk,4,4,Outdoor,Morning,Early Pregnancy,15–45 min,1
+2025-12-30,22,3,Quiet Cuddling,3,3,Indoor,Evening,Early Pregnancy,15–45 min,1
+2025-12-31,50,5,Run + Walk,5,5,Outdoor,Evening,Early Pregnancy,>45 min,1
+2026-01-01,18,4,Training,2,4,Indoor,Afternoon,Early Pregnancy,15–45 min,1
+2026-01-02,15,4,Quiet Cuddling,2,4,Indoor,Evening,Early Pregnancy,<15 min,1
+2026-01-03,22,4,Walk,2,4,Outdoor,Morning,Early Pregnancy,15–45 min,1
+2026-01-04,40,5,Walk,4,5,Outdoor,Afternoon,Early Pregnancy,15–45 min,1
+2026-01-05,39,2,Quiet Cuddling,2,2,Indoor,Afternoon,Early Pregnancy,15–45 min,2
+2026-01-06,23,4,Quiet Cuddling,2,4,Indoor,Morning,Early Pregnancy,15–45 min,2
+2026-01-07,11,3,Run + Walk,4,4,Outdoor,Afternoon,Early Pregnancy,<15 min,2
+2026-01-08,39,2,Quiet Cuddling,2,2,Indoor,Evening,Early Pregnancy,15–45 min,2
+2026-01-09,17,4,Walk,3,3,Outdoor,Evening,Early Pregnancy,15–45 min,2
+2026-01-10,40,4,Quiet Cuddling,2,2,Indoor,Evening,Early Pregnancy,15–45 min,2
+2026-01-11,35,3,Training,3,3,Indoor,Evening,Early Pregnancy,15–45 min,2
+2026-01-12,40,3,Walk,4,2,Indoor,Evening,Early Pregnancy,15–45 min,3
+2026-01-13,12,3,Run + Walk,3,3,Outdoor,Morning,Early Pregnancy,<15 min,3
+2026-01-14,10,3,Run + Walk,3,4,Outdoor,Morning,Early Pregnancy,<15 min,3
+2026-01-15,28,2,Walk + Play,3,3,Outdoor,Evening,Early Pregnancy,15–45 min,3
+2026-01-16,39,2,Run + Walk,3,2,Outdoor,Morning,Early Pregnancy,15–45 min,3
+2026-01-17,38,2,Walk + Play,4,3,Indoor,Evening,Early Pregnancy,15–45 min,3
+2026-01-18,34,3,Quiet Cuddling,2,3,Indoor,Evening,Early Pregnancy,15–45 min,3
+2026-01-19,17,3,Walk + Play,4,2,Indoor,Afternoon,Early Pregnancy,15–45 min,4
+2026-01-20,18,2,Quiet Cuddling,3,3,Indoor,Morning,Mid Pregnancy,15–45 min,4
+2026-01-21,38,3,Quiet Cuddling,2,4,Indoor,Afternoon,Mid Pregnancy,15–45 min,4
+2026-01-22,27,4,Play,3,2,Indoor,Morning,Mid Pregnancy,15–45 min,4
+2026-01-23,26,3,Walk,3,2,Outdoor,Evening,Mid Pregnancy,15–45 min,4
+2026-01-24,37,3,Training,3,2,Indoor,Morning,Mid Pregnancy,15–45 min,4
+2026-01-25,13,4,Quiet Cuddling,2,2,Indoor,Morning,Mid Pregnancy,<15 min,4
+2026-01-26,18,4,Quiet Cuddling,2,2,Indoor,Afternoon,Mid Pregnancy,15–45 min,5
+2026-01-27,25,3,Play,4,2,Indoor,Afternoon,Mid Pregnancy,15–45 min,5
+2026-01-28,40,2,Run + Walk,4,2,Indoor,Afternoon,Mid Pregnancy,15–45 min,5
+2026-01-29,14,2,Walk + Play,3,2,Indoor,Morning,Mid Pregnancy,<15 min,5
+2026-01-30,22,3,Run + Walk,3,3,Indoor,Morning,Mid Pregnancy,15–45 min,5
+2026-01-31,20,4,Run + Walk,4,4,Indoor,Evening,Mid Pregnancy,15–45 min,5
+2026-02-01,20,4,Walk,4,3,Outdoor,Morning,Late / Appetite Recovery,15–45 min,5
+2026-02-02,22,3,Run + Walk,4,5,Outdoor,Evening,Late / Appetite Recovery,15–45 min,6
+2026-02-03,48,4,Training,4,3,Indoor,Morning,Late / Appetite Recovery,>45 min,6
+2026-02-04,27,4,Run + Walk,3,5,Outdoor,Morning,Late / Appetite Recovery,15–45 min,6
+2026-02-05,31,3,Quiet Cuddling,5,4,Indoor,Afternoon,Late / Appetite Recovery,15–45 min,6
+2026-02-06,21,5,Quiet Cuddling,4,5,Indoor,Evening,Late / Appetite Recovery,15–45 min,6
+2026-02-07,30,4,Run + Walk,4,3,Outdoor,Afternoon,Late / Appetite Recovery,15–45 min,6
